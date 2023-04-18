@@ -37,7 +37,7 @@
 </a>
 <!-- R -->
 <a href="#">
-      <img alt="R" src="https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+      <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />,
 </a>
 <!-- R-Markdown -->
 <a href="#">
