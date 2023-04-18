@@ -1,7 +1,5 @@
 # William Irineu
 
-<img align="right" src="https://komarev.com/ghpvc/?username=William Irineu alt="WilliamIrineu's Profile Views" />
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Williamirineu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamirineu/)](https://www.linkedin.com/in/williamirineu/) 
 [![Gmail Badge](https://img.shields.io/badge/-kdowillian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=kdowillian@gmail.com)](mailto:kdowillian@gmail.com)
 
