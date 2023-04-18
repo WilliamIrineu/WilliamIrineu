@@ -33,10 +33,7 @@
 </a>
 <!-- Excel-->
 <a href="#">
-      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<!-- MicrosoftVisio -->
-<a href="#">
-      <img alt="MicrosoftVisio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />,
 </a>
 <!-- R -->
 <a href="#">
@@ -45,6 +42,9 @@
 <!-- R-Markdown -->
 <a href="#">
       <img alt="R-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<!-- MicrosoftVisio -->
+<a href="#">
+      <img alt="MicrosoftVisio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
 </a>
 
 
