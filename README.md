@@ -1,8 +1,8 @@
-# Walisson Silva
+# William Irineu
 
-<img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=William Irineu alt="William Irineu's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamirineu/)](https://www.linkedin.com/in/williamirineu/) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Williamirineu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamirineu/)](https://www.linkedin.com/in/williamirineu/) 
 [![Gmail Badge](https://img.shields.io/badge/-kdowillian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=kdowillian@gmail.com)](mailto:kdowillian@gmail.com)
 
 <!--![William'I github stats](https://github-readme-stats.vercel.app/api?username=WilliamIrineu&show_icons=true&theme=tokyonight)-->
