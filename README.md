@@ -8,6 +8,7 @@
 ## About me
 
 💻 &nbsp;Desenvolvedor Python; R ; Power Query; Power Bi
+
 📊 &nbsp;Graduando em Estatística
 
 ## Experiência Profissional
