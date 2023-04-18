@@ -2,72 +2,48 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=walissonsilva" alt="WalissonSilva's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walissonsilva/)](https://www.linkedin.com/in/walissonsilva/) 
-[![Gmail Badge](https://img.shields.io/badge/-walissonsilva10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walissonsilva10@gmail.com)](mailto:walissonsilva10@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Blog-walissonsilva.com-blue)](https://walissonsilva.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/walissonsilva)](https://youtube.com/c/walissonsilva)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-WalissonSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamirineu/)](https://www.linkedin.com/in/williamirineu/) 
+[![Gmail Badge](https://img.shields.io/badge/-kdowillian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=kdowillian@gmail.com)](mailto:kdowillian@gmail.com)
 
-<!--![Walisson Silva's github stats](https://github-readme-stats.vercel.app/api?username=walissonsilva&show_icons=true&theme=tokyonight)-->
+<!--![William'I github stats](https://github-readme-stats.vercel.app/api?username=WilliamIrineu&show_icons=true&theme=tokyonight)-->
 
 ## About me
 
-💻 &nbsp;Desenvolvedor Web Full Stack  
-👨‍🏫 &nbsp;Professor de Programação  
-🆙 &nbsp;Cerficado pela AWS (Cloud Practitioner)  
-📊 &nbsp;Mestre em Engenharia Elétrica (ênfase em Processamento de Sinais)  
-⚡ &nbsp;Bacharel em Engenharia Elétrica    
-🎥 &nbsp;YouTuber  
+💻 &nbsp;Desenvolvedor Python; R ; Power Query; Power Bi
+📊 &nbsp;Graduando em Estatística
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2020 - Presente] Desenvolvedor Web Full Stack na Let's Code  
-👨‍🏫 &nbsp;[Set/2020 - Presente] Professor na Let's Code (Web Full Stack e Data Science)  
-👨‍🏫 &nbsp;[Mar/2020 - Jul/2020] Professor na Kronos Nexus  
+💻 &nbsp;[Mar/2022 - presente] Estagiario de Estatística na Aliare (Enfase em People Analytics)
+👨‍🏫 &nbsp;[Ago/2020 - Dez/2020] Monitor de Estatística na UFG
+👨‍🏫 &nbsp;[Jan/2021 - Abr/2021] Monitor de Estatística na UFG
 
 ## 🛠️ Skills
 
 ### :wrench: Tools and environments
 
-<!-- GIT -->
+<!-- Python -->
 <a href="#">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
-<!-- NPM -->
+<!-- PowerBi-->
 <a href="#">
-      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+      <img alt="PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </a>
-<!-- YARN -->
+<!-- Excel-->
 <a href="#">
-      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<!-- MicrosoftVisio -->
+<a href="#">
+      <img alt="MicrosoftVisio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
+</a>
+<!-- R -->
+<a href="#">
+      <img alt="R" src="https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- R-Markdown -->
+<a href="#">
+      <img alt="R-Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>
 
-### :computer: Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### :computer: Back-End Development
-
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📱 Mobile
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### 🧪 Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
