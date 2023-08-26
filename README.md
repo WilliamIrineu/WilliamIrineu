@@ -13,7 +13,8 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Mar/2022 - presente] Estagiario de Estatística na Aliare (Enfase em People Analytics)
+💻 &nbsp;[Set/2023 - Atual] Analista Estatístico na Allrede Telecom
+💻 &nbsp;[Mar/2022 - Ago/2023] Estagiario de Estatística na Aliare (Enfase em People Analytics)
 
 👨‍🏫 &nbsp;[Ago/2020 - Dez/2020] Monitor de Estatística na UFG
 
