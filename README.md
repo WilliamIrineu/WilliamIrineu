@@ -49,6 +49,9 @@
       <img alt="MicrosoftVisio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
 </a>
       
-# SQL -->
+<!-- SQL -->
+<a href="#">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" />
+</a>
 
 
