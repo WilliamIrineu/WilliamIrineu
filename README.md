@@ -33,6 +33,11 @@
 <a href="#">
       <img alt="PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </a>
+<!-- SQL -->
+<a href="#">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" />
+</a>
+
 <!-- Excel-->
 <a href="#">
       <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />,
@@ -49,9 +54,6 @@
       <img alt="MicrosoftVisio" src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" />
 </a>
       
-<!-- SQL -->
-<a href="#">
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" />
-</a>
+
 
 
