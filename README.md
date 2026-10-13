@@ -13,9 +13,13 @@
 
 ## Experiência Profissional
 
-💻 &nbsp;[Set/2023 - Atual] Analista Estatístico na Allrede Telecom
+💻 &nbsp;[Mar/2026 - Atual] Especialista em ciências de dados na CNC - Confederação Nacional do Comércio de Bens, Serviços e Turismo
 
-💻 &nbsp;[Mar/2022 - Ago/2023] Estagiario de Estatística na Aliare (Enfase em People Analytics)
+💻 &nbsp;[Mar/2025 - Jul/2026] Cientista de dados pleno na Blue Dice (Autônomo)
+
+💻 &nbsp;[Set/2023 - Ago/2025] Analista Estatístico na Allrede Telecom
+
+💻 &nbsp;[Mar/2022 - Ago/2023] People Analytics na Aliare
 
 👨‍🏫 &nbsp;[Ago/2020 - Dez/2020] Monitor de Estatística na UFG
 
